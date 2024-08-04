@@ -1,1 +1,5 @@
-"# designpatterns" 
+# Design Patterns
+
+* Singleton
+* Strategy
+* Facade
